@@ -12,5 +12,5 @@ layout: landing
 
 #### You can learn more about different parts of the fromafri.ca system below.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Edge API</td><td></td><td></td><td></td><td><a href="edge-api/what-is-it.md">what-is-it.md</a></td></tr><tr><td>Global Datastore</td><td></td><td></td><td></td><td><a href="edge-api/whats-a-pro-server.md">whats-a-pro-server.md</a></td></tr><tr><td></td><td></td><td></td><td></td><td><a href="self-hosted/fawl-server.md">fawl-server.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Edge API</td><td></td><td></td><td></td><td><a href="edge-api/what-is-it.md">what-is-it.md</a></td></tr><tr><td>Global Datastore</td><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
 
